@@ -6,24 +6,25 @@
 ---
 
 ### 💻 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
 
 ---
 
 ### 📊 GitHub Stats & Graphs  
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=RalphWreckeri2&color=blueviolet&style=flat)
 
-  <br>
+  <img src="https://komarev.com/ghpvc/?username=RalphWreckeri2&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+  <br><br>
   
   <img height="170" src="https://streak-stats.demolab.com?user=RalphWreckeri2&theme=tokyonight&hide_border=true" />
   
-  <br>
+  <br><br>
   
   <img height="170" src="https://github-profile-trophy.vercel.app/?username=RalphWreckeri2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
@@ -35,6 +36,11 @@
   <br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RalphWreckeri2&bg_color=1a1b27&color=38bdae&line=6e40c9&point=38bdae&area=true&hide_border=true" />
+
+  <br><br>
+
+  <!-- Contribution Snake Animation -->
+  <img src="https://github.com/RalphWreckeri2/RalphWreckeri2/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -49,8 +55,8 @@
 ---
 
 ### 📫 Connect with me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ralphmatthew.samonte@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ralphmatthew.samonte@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
 
 ---
 
