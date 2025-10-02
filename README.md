@@ -1,3 +1,9 @@
+
+<!-- Typing Animation Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Ralph+Matthew+Samonte;Aspiring+Web+Developer;Business+Analytics+Student;Data+Enthusiast)](https://git.io/typing-svg)
+
+---
+
 # 👋 Hi, I’m Ralph Matthew Samonte  
 🚀 Aspiring Web Developer | 📊 Business Analytics Student | 💡 Data Enthusiast  
 
@@ -51,6 +57,13 @@
   Event creation, registration, and certificate generation system built with PHP + SQL.  
 - [☕ BrewQueue - Smart Café Ordering System](https://github.com/RalphWreckeri2/BrewQueue)  
   Pre-order café drinks to skip the line.
+
+---
+
+### ✨ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
