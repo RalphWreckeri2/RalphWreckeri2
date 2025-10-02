@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Ralph Matthew Samonte  
 🚀 Aspiring Web Developer | 📊 Business Analytics Student | 💡 Data Enthusiast  
 
+🌐 **Check out my portfolio:** [ralphwreckeri2.github.io/Portfolio](https://ralphwreckeri2.github.io/Portfolio/)
+
 ---
 
 ### 💻 Tech Stack
@@ -13,16 +15,27 @@
 ---
 
 ### 📊 GitHub Stats & Graphs  
-![Ralph's GitHub stats](https://github-readme-stats.vercel.app/api?username=RalphWreckeri2&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RalphWreckeri2&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RalphWreckeri2&theme=tokyonight&hide_border=true)  
+<div align="center">
 
-![Ralph's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphWreckeri2&bg_color=1a1b27&color=38bdae&line=6e40c9&point=38bdae&area=true&hide_border=true)  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RalphWreckeri2&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalphWreckeri2&layout=compact&theme=tokyonight" />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=RalphWreckeri2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)  
+  <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RalphWreckeri2&color=blueviolet&style=flat)
+  <img height="170" src="https://streak-stats.demolab.com?user=RalphWreckeri2&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=RalphWreckeri2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RalphWreckeri2&bg_color=1a1b27&color=38bdae&line=6e40c9&point=38bdae&area=true&hide_border=true" />
+
+  <br>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=RalphWreckeri2&color=blueviolet&style=flat)
+
+</div>
+
 ---
 
 ### 🚀 Featured Projects
