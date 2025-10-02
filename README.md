@@ -18,13 +18,13 @@
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RalphWreckeri2&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalphWreckeri2&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=RalphWreckeri2&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=RalphWreckeri2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
   <br><br>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=RalphWreckeri2&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=RalphWreckeri2&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RalphWreckeri2&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalphWreckeri2&layout=compact&theme=tokyonight" />
 
   <br><br>
 
