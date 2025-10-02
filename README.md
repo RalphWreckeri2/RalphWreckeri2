@@ -46,8 +46,7 @@
 
   <br><br>
 
-  <!-- Contribution Snake Animation -->
-  <img src="https://github.com/RalphWreckeri2/RalphWreckeri2/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![Snake animation](https://raw.githubusercontent.com/RalphWreckeri2/RalphWreckeri2/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -61,7 +60,7 @@
 
 ---
 
-### ✨ Random Dev Quote
+### ✨ They say...
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
