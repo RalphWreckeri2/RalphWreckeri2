@@ -41,15 +41,12 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalphWreckeri2&layout=compact&theme=tokyonight" />
 
   <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RalphWreckeri2&bg_color=1a1b27&color=38bdae&line=6e40c9&point=38bdae&area=true&hide_border=true" />
-
-  <br><br>
-
+  
   ![Snake animation](https://raw.githubusercontent.com/RalphWreckeri2/RalphWreckeri2/output/snake.svg)
-
-
-
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RalphWreckeri2&bg_color=1a1b27&color=38bdae&line=6e40c9&point=38bdae&area=true&hide_border=true" />
 
 </div>
 
