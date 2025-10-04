@@ -55,8 +55,6 @@
 ### 🚀 Featured Projects
 - [📅 Schedule - Event Management System](https://github.com/RalphWreckeri2/Schedule)  
   Event creation, registration, and certificate generation system built with PHP + SQL.  
-- [☕ BrewQueue - Smart Café Ordering System](https://github.com/RalphWreckeri2/BrewQueue)  
-  Pre-order café drinks to skip the line.
 
 ---
 
