@@ -53,7 +53,7 @@
 ---
 
 ### 🚀 Featured Projects
-- [📅 Schedule - Event Management System](https://github.com/RalphWreckeri2/Schedule)  
+- [📅 Schedule - Event Management System](https://scheduleerms.ct.ws/)  
   Event creation, registration, and certificate generation system built with PHP + SQL.  
 
 ---
