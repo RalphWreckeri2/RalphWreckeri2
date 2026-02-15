@@ -6,7 +6,7 @@
 ---
 
 # 👋 Hi, I’m Ralph Matthew Samonte  
-🚀 Aspiring Web Developer | 📊 Business Analytics Student | 💡 Data Enthusiast  
+🚀 Aspiring Data Analyst | 📊 Business Analytics Student | 💡 Data Enthusiast  
 
 🌐 **Check out my portfolio:** [ralphwreckeri2.github.io/Portfolio](https://ralphwreckeri2.github.io/Portfolio/)
 
